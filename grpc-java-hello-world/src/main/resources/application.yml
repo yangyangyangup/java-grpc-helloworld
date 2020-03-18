@@ -1,0 +1,12 @@
+grpc:
+  port: 6566
+  host: 0.0.0.0
+  server:
+      port: 6567
+      host: 0.0.0.0
+
+app-config:
+  grpc-server-name: localhost
+  grpc-server-port: 6567
+
+
